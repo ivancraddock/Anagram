@@ -1,0 +1,8 @@
+good 0 
+dog 1 god 
+nail 1 lain 
+lane 4 elan lean lena neal 
+loag 2 goal olga 
+aaa 0 
+nap 1 pan 
+pan 1 nap 
