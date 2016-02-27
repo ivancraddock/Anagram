@@ -4,5 +4,7 @@ A program that searches a hashed dictionary to find anagrams. By default, the pr
 Instructions:
 
 1.) Import this project into Eclipse. 
+
 2.) Run the program named "Tester.java". 
+
 2a.) To change the search parameters, modify "input.txt"
